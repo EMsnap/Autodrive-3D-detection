@@ -1,6 +1,6 @@
 # Autodrive-3D-detection
 
-Group project in HKUST
+Repo for Kaggle competetion https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles
 
 Important Links:
 
