@@ -1,8 +1,9 @@
 # Autodrive-3D-detection
-# Group project in HKUST
 
+Group project in HKUST
 
-# Important Links:
+Important Links:
+
 
 http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d
 
