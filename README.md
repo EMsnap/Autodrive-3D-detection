@@ -1,8 +1,8 @@
 # Autodrive-3D-detection
-Group project in HKUST
+# Group project in HKUST
 
 
-Important Links:
+# Important Links:
 
 http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d
 
@@ -29,7 +29,7 @@ https://core.ac.uk/download/pdf/85208250.pdf
 Official Github repo from the authors of VoxelNet : https://github.com/qianguih/voxelnet
 
 
-Some papers if got time to read
+# Some papers if got time to read
 
 2d detection: https://github.com/hoya012/deep_learning_object_detection
 
