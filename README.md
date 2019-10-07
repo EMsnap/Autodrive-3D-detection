@@ -1,5 +1,9 @@
 # Autodrive-3D-detection
 
+# Use V2 instead
+
+I created some utils for simply use.
+
 Repo for Kaggle competetion https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles
 
 Important Links:
